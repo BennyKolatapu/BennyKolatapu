@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 
-![Benny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bennyKolatapu&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyKolatapu&layout=compact&theme=tokyonight)
+![Benny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BennyKolatapu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BennyKolatapu&layout=compact&theme=tokyonight)
 
 ---
 
